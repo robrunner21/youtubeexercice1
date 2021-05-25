@@ -80,3 +80,11 @@ Les boutons pour le style mp3:
 <path d="M180 43H179.5C179.5 43.1969 179.616 43.3755 179.795 43.4561C179.975 43.5368 180.185 43.5045 180.332 43.3737L180 43ZM193.5 31L193.832 31.3737C193.936 31.2811 193.997 31.1493 194 31.01C194.003 30.8707 193.947 30.7365 193.847 30.6398L193.5 31ZM180 18L180.347 17.6398C180.202 17.5008 179.989 17.4614 179.804 17.5399C179.62 17.6184 179.5 17.7995 179.5 18H180ZM180.332 43.3737L193.832 31.3737L193.168 30.6263L179.668 42.6263L180.332 43.3737ZM193.847 30.6398L180.347 17.6398L179.653 18.3602L193.153 31.3602L193.847 30.6398ZM179.5 18V43H180.5V18H179.5Z" fill="white"/>
 </svg>
 ```
+
+## Conclusion
+
+Vous pourrez drop vos créations sur #⚗️•Creations sur le discord: https://discord.com/invite/QsUPRsEjWT
+
+Les meilleurs créations et le site de rob_runner seront uploadé sur ce github si leurs créateurs sont d'accord après la sortie de la vidéo de présentation des sites.
+
+Bon courage!
